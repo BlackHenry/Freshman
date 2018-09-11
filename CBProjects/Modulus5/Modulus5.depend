@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508310541 source:c:\users\henri black\documents\cbprojects\modulus5\main.cpp
+	<iostream>
+	<unordered_map>
+

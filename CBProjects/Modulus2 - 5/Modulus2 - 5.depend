@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511944277 source:c:\users\henri black\documents\cbprojects\modulus2 - 5\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cstring>
+

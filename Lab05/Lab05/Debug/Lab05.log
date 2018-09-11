@@ -1,0 +1,11 @@
+﻿  Lab05.cpp
+c:\users\henri black\source\repos\lab05\lab05\outersort.h(63): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\henri black\source\repos\lab05\lab05\outersort.h(49): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\henri black\source\repos\lab05\lab05\lab05.cpp(8): note: выполняется компиляция ссылки на экземпляр шаблон функции "void OuterSort<int>::Sort(void)"
+  c:\users\henri black\source\repos\lab05\lab05\lab05.cpp(7): note: выполняется компиляция ссылки на экземпляр шаблон класс "OuterSort<int>"
+  Создание кода...
+  Компиляция...
+  OuterSort.cpp
+  Создание кода...
+  Lab05.vcxproj -> C:\Users\Henri Black\source\repos\Lab05\Debug\Lab05.exe
+  Lab05.vcxproj -> C:\Users\Henri Black\source\repos\Lab05\Debug\Lab05.pdb (Partial PDB)

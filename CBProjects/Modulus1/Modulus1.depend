@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508306905 source:c:\users\henri black\documents\cbprojects\modulus1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+

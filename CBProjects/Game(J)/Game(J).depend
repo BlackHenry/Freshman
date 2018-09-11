@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508239386 source:c:\users\henri black\documents\cbprojects\game(j)\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

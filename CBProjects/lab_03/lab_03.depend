@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1506319212 source:c:\users\henri black\documents\cbprojects\lab_03\main.cpp
+	<vector>
+	<map>
+	"MusicTable.h"
+
+1506325999 c:\users\henri black\documents\cbprojects\lab_03\include\musictable.h
+	<vector>
+	<unordered_map>
+	<iostream>
+	<string>
+	<cstring>
+
+1506333542 source:c:\users\henri black\documents\cbprojects\lab_03\src\musictable.cpp
+	"MusicTable.h"
+

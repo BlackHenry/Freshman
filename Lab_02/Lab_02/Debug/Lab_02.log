@@ -1,0 +1,11 @@
+﻿  Parser.cpp
+c:\users\henri black\source\repos\lab_02\lab_02\parser.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\henri black\source\repos\lab_02\lab_02\parser.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\henri black\source\repos\lab_02\lab_02\parser.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\users\henri black\source\repos\lab_02\lab_02\parser.cpp(51): warning C4101: p: неиспользованная локальная переменная
+c:\users\henri black\source\repos\lab_02\lab_02\parser.cpp(67): warning C4101: p: неиспользованная локальная переменная
+c:\users\henri black\source\repos\lab_02\lab_02\parser.cpp(80): warning C4101: p: неиспользованная локальная переменная
+c:\users\henri black\source\repos\lab_02\lab_02\parser.cpp(95): warning C4101: p: неиспользованная локальная переменная
+c:\users\henri black\source\repos\lab_02\lab_02\parser.cpp(108): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab_02.vcxproj -> C:\Users\Henri Black\source\repos\Lab_02\Debug\Lab_02.exe
+  Lab_02.vcxproj -> C:\Users\Henri Black\source\repos\Lab_02\Debug\Lab_02.pdb (Partial PDB)

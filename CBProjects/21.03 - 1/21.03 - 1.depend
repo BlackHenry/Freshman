@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1521617851 source:c:\users\henri black\documents\cbprojects\21.03 - 1\main.cpp
+	<iostream>
+	"MyList.h"
+
+1521617791 c:\users\henri black\documents\cbprojects\21.03 - 1\include\mylist.h
+	<iostream>
+
+1521617354 source:c:\users\henri black\documents\cbprojects\21.03 - 1\src\mylist.cpp
+

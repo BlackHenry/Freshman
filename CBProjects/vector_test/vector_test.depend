@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506321177 source:c:\users\henri black\documents\cbprojects\vector_test\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+

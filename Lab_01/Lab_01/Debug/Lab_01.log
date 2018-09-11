@@ -1,0 +1,5 @@
+﻿  NumericAlgebra.cpp
+c:\users\henri black\source\repos\lab_01\lab_01\numericalgebra.cpp(62): warning C4244: *=: преобразование "double" в "__int64", возможна потеря данных
+c:\users\henri black\source\repos\lab_01\lab_01\numericalgebra.cpp(70): warning C4244: инициализация: преобразование "ld" в "__int64", возможна потеря данных
+  Lab_01.vcxproj -> C:\Users\Henri Black\source\repos\Lab_01\Debug\Lab_01.exe
+  Lab_01.vcxproj -> C:\Users\Henri Black\source\repos\Lab_01\Debug\Lab_01.pdb (Partial PDB)

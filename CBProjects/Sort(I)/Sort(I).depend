@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507805298 source:c:\users\henri black\documents\cbprojects\sort(i)\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

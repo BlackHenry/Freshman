@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507107243 source:c:\users\henri black\documents\cbprojects\04.10 - 4\main.cpp
+	<iostream>
+	<map>
+	<cstdlib>
+	<ctime>
+

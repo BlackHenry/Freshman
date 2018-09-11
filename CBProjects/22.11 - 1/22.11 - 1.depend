@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511343168 source:c:\users\henri black\documents\cbprojects\22.11 - 1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
